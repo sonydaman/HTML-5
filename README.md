@@ -1,4 +1,3 @@
-# HTML---5
 THIS IS BASED ON SOCKET.IO
 
 FOR RUN
@@ -24,7 +23,3 @@ Wait for a moment:
 Once Connected you will able to play in player roles;
 
 :) 
-
-
-
-
